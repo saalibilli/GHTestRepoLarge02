@@ -1,0 +1,155 @@
+{
+  "objectsList": {
+    "account": {
+      "fields": [
+        {
+          "name": "Id",
+          "type": "id"
+        },
+        {
+          "name": "Name",
+          "type": "string"
+        },
+        {
+          "name": "Industry",
+          "type": "string"
+        },
+        {
+          "name": "Phone",
+          "type": "string"
+        },
+        {
+          "name": "BillingCity",
+          "type": "string"
+        },
+        {
+          "name": "BillingState",
+          "type": "string"
+        },
+        {
+          "name": "BillingCountry",
+          "type": "string"
+        }
+      ],
+      "recordIds": [
+        "001T700001iwURdIAM",
+        "001T700001iwUReIAM",
+        "001T700001iwURfIAM",
+        "001T700001iwURgIAM",
+        "001T700001iwURhIAM",
+        "001T700001iwURiIAM",
+        "001T700001iwURjIAM",
+        "001T700001iwURkIAM",
+        "001T700001iwURlIAM",
+        "001T700001iwURmIAM"
+      ],
+      "relatedObjects": [
+        {
+          "name": "Contact",
+          "referenceField": "AccountId"
+        },
+        {
+          "name": "Opportunity",
+          "referenceField": "AccountId"
+        }
+      ],
+      "numRecords": 10
+    },
+    "contact": {
+      "fields": [
+        {
+          "name": "Id",
+          "type": "id"
+        },
+        {
+          "name": "FirstName",
+          "type": "string"
+        },
+        {
+          "name": "LastName",
+          "type": "string"
+        },
+        {
+          "name": "Email",
+          "type": "string"
+        },
+        {
+          "name": "Phone",
+          "type": "string"
+        }
+      ],
+      "recordIds": [
+        "003T700000JxIfVIAV",
+        "003T700000JxIfWIAV",
+        "003T700000JxIfXIAV",
+        "003T700000JxIfYIAV",
+        "003T700000JxIfZIAV",
+        "003T700000JxIfaIAF",
+        "003T700000JxIfbIAF",
+        "003T700000JxIfcIAF",
+        "003T700000JxIfdIAF",
+        "003T700000JxIfeIAF",
+        "003T700000JxIffIAF",
+        "003T700000JxIfgIAF",
+        "003T700000JxIfhIAF",
+        "003T700000JxIfiIAF",
+        "003T700000JxIfjIAF",
+        "003T700000JxIfkIAF",
+        "003T700000JxIflIAF",
+        "003T700000JxIfmIAF",
+        "003T700000JxIfnIAF",
+        "003T700000JxIfoIAF"
+      ],
+      "relatedObjects": [
+        {
+          "name": "Account",
+          "referenceField": "AccountId"
+        }
+      ],
+      "numRecords": 20
+    },
+    "opportunity": {
+      "fields": [
+        {
+          "name": "Id",
+          "type": "id"
+        },
+        {
+          "name": "Name",
+          "type": "string"
+        },
+        {
+          "name": "StageName",
+          "type": "string"
+        },
+        {
+          "name": "CloseDate",
+          "type": "string"
+        },
+        {
+          "name": "Amount",
+          "type": "string"
+        }
+      ],
+      "recordIds": [
+        "006T700000G5zXtIAJ",
+        "006T700000G5zXuIAJ",
+        "006T700000G5zXvIAJ",
+        "006T700000G5zXwIAJ",
+        "006T700000G5zXxIAJ",
+        "006T700000G5zXyIAJ",
+        "006T700000G5zXzIAJ",
+        "006T700000G5zY0IAJ",
+        "006T700000G5zY1IAJ",
+        "006T700000G5zY2IAJ"
+      ],
+      "relatedObjects": [
+        {
+          "name": "Account",
+          "referenceField": "AccountId"
+        }
+      ],
+      "numRecords": 10
+    }
+  }
+}
