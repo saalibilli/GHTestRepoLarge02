@@ -1,0 +1,1 @@
+public class ApexClass_wpVJDX93UZ { public void m1_UESqljwfct() { System.debug('Hello, World!');} public void m2_EEh8c12WtJ() { System.debug('Hello, World!');} public void m3_x0Y9K8MNOx() { System.debug('Hello, World!');}}
