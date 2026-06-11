@@ -1,0 +1,1 @@
+public class ApexClass_p5WWNU4usb { public void m1_Q54QRKIOT7() { System.debug('Hello, World!');} public void m2_ewNydW39ew() { System.debug('Hello, World!');} public void m3_dGCzLdCZ60() { System.debug('Hello, World!');}}
