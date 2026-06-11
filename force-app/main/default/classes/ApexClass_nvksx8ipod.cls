@@ -1,0 +1,1 @@
+public class ApexClass_nvksx8ipod { public void m1_3owfC5Tcjt() { System.debug('Hello, World!');} public void m2_ZJsTMBDeTv() { System.debug('Hello, World!');} public void m3_ZFnrHcfXKW() { System.debug('Hello, World!');}}
