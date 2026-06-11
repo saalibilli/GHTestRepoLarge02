@@ -1,0 +1,1 @@
+public class ApexClass_tMaxDptpDH { public void m1_Oija1qW2ZT() { System.debug('Hello, World!');} public void m2_zG6cg5vr3p() { System.debug('Hello, World!');} public void m3_lorL0CbIhE() { System.debug('Hello, World!');}}
