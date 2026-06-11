@@ -1,0 +1,1 @@
+public class ApexClass_Vatlc4aHml { public void m1_q426p2fw1K() { System.debug('Hello, World!');} public void m2_3PRXJuL3f4() { System.debug('Hello, World!');} public void m3_AHyPMBtSss() { System.debug('Hello, World!');}}
