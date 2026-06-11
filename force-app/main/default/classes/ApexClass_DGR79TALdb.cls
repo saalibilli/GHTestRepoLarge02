@@ -1,0 +1,1 @@
+public class ApexClass_DGR79TALdb { public void m1_BFjIlphVRk() { System.debug('Hello, World!');} public void m2_KSk7OyapmL() { System.debug('Hello, World!');} public void m3_bIHl4vy6j8() { System.debug('Hello, World!');}}
