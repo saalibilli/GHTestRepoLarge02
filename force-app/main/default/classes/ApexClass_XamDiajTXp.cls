@@ -1,0 +1,1 @@
+public class ApexClass_XamDiajTXp { public void m1_WocYBhVwLM() { System.debug('Hello, World!');} public void m2_sy9Bzc8l2d() { System.debug('Hello, World!');} public void m3_Gyrlm2XQu9() { System.debug('Hello, World!');}}

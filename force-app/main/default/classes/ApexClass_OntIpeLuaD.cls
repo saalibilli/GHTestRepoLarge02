@@ -1,0 +1,1 @@
+public class ApexClass_OntIpeLuaD { public void m1_xEx8Hbt4oW() { System.debug('Hello, World!');} public void m2_GFsfErFXwl() { System.debug('Hello, World!');} public void m3_khXIulh7T2() { System.debug('Hello, World!');}}
