@@ -1,0 +1,1 @@
+public class ApexClass_QwNyleyASL { public void m1_eA17ezT6qN() { System.debug('Hello, World!');} public void m2_4tXs0xiydr() { System.debug('Hello, World!');} public void m3_W7QATxQmbn() { System.debug('Hello, World!');}}
