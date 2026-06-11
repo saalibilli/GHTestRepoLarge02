@@ -1,0 +1,1 @@
+public class ApexClass_ZNceanctma { public void m1_aP7PGuMh6F() { System.debug('Hello, World!');} public void m2_N5znaLwgSM() { System.debug('Hello, World!');} public void m3_GsyrPOsbUy() { System.debug('Hello, World!');}}
