@@ -1,0 +1,1 @@
+public class ApexClass_DDRitFigv6 { public void m1_HWIULqTEH6() { System.debug('Hello, World!');} public void m2_HmVGI8aHFp() { System.debug('Hello, World!');} public void m3_D32LWuRtWK() { System.debug('Hello, World!');}}
