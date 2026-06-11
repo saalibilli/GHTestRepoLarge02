@@ -1,0 +1,1 @@
+public class ApexClass_ODosvVBMtp { public void m1_2Ecw6Reecx() { System.debug('Hello, World!');} public void m2_Xxq0fydP9P() { System.debug('Hello, World!');} public void m3_nWgIB9oqAh() { System.debug('Hello, World!');}}

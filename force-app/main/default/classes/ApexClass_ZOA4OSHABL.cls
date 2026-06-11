@@ -1,0 +1,1 @@
+public class ApexClass_ZOA4OSHABL { public void m1_IBfv9vsoGx() { System.debug('Hello, World!');} public void m2_94pqOw0hEX() { System.debug('Hello, World!');} public void m3_84Ve09qW0V() { System.debug('Hello, World!');}}
