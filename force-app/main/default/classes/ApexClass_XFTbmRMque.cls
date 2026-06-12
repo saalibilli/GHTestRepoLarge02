@@ -1,0 +1,1 @@
+public class ApexClass_XFTbmRMque { public void m1_SzDFvCzeJt() { System.debug('Hello, World!');} public void m2_f661cwn5PM() { System.debug('Hello, World!');} public void m3_50lPS4vzFY() { System.debug('Hello, World!');}}
