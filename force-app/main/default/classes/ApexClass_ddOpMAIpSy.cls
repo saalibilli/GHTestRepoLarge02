@@ -1,0 +1,1 @@
+public class ApexClass_ddOpMAIpSy { public void m1_vVCV75UEqb() { System.debug('Hello, World!');} public void m2_AMoaN0fpMb() { System.debug('Hello, World!');} public void m3_x7DZyt1YmO() { System.debug('Hello, World!');}}
