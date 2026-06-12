@@ -1,0 +1,1 @@
+public class ApexClass_CacmuZirua { public void m1_liem48DNqq() { System.debug('Hello, World!');} public void m2_wTs3iCPJfB() { System.debug('Hello, World!');} public void m3_heKEz20hgg() { System.debug('Hello, World!');}}
