@@ -1,0 +1,1 @@
+public class ApexClass_ogcgreCStS { public void m1_ds56fZBsLs() { System.debug('Hello, World!');} public void m2_DM1ZR24GhJ() { System.debug('Hello, World!');} public void m3_LHAgrjPvV3() { System.debug('Hello, World!');}}
