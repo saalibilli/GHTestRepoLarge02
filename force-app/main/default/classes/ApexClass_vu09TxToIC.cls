@@ -1,0 +1,1 @@
+public class ApexClass_vu09TxToIC { public void m1_jV6545D8sm() { System.debug('Hello, World!');} public void m2_mrj0RFk8FV() { System.debug('Hello, World!');} public void m3_vvTpKaqx5G() { System.debug('Hello, World!');}}
