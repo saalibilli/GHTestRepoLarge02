@@ -1,0 +1,1 @@
+public class ApexClass_rtokIdeeQe { public void m1_ztpd4khg5H() { System.debug('Hello, World!');} public void m2_Sb4WPoEd8x() { System.debug('Hello, World!');} public void m3_o8zMHLr4Hh() { System.debug('Hello, World!');}}
