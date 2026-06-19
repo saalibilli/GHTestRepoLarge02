@@ -1,0 +1,1 @@
+public class ApexClass_KggxmlDvuE { public void m1_kygczvVoCP() { System.debug('Hello, World!');} public void m2_iQzYs9hz3n() { System.debug('Hello, World!');} public void m3_Z8DKritVP7() { System.debug('Hello, World!');}}
