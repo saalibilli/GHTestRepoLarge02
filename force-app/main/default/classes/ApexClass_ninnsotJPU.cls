@@ -1,0 +1,1 @@
+public class ApexClass_ninnsotJPU { public void m1_euNdSDxMfo() { System.debug('Hello, World!');} public void m2_UAhGn9J2QI() { System.debug('Hello, World!');} public void m3_PzpCw0afam() { System.debug('Hello, World!');}}
