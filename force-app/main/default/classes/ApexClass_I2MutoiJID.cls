@@ -1,0 +1,1 @@
+public class ApexClass_I2MutoiJID { public void m1_ZUGJckkHrx() { System.debug('Hello, World!');} public void m2_qFz42sRy18() { System.debug('Hello, World!');} public void m3_k2lubISmbe() { System.debug('Hello, World!');}}
