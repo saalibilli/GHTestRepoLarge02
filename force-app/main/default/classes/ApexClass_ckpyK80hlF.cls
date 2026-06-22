@@ -1,0 +1,1 @@
+public class ApexClass_ckpyK80hlF { public void m1_896IJ0MRCj() { System.debug('Hello, World!');} public void m2_eF22t84KxE() { System.debug('Hello, World!');} public void m3_MmA8NMUGTw() { System.debug('Hello, World!');}}
