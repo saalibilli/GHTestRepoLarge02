@@ -1,0 +1,1 @@
+public class ApexClass_CGpepDiNMD { public void m1_dtJ6eIjDm2() { System.debug('Hello, World!');} public void m2_eNSiVQC3wx() { System.debug('Hello, World!');} public void m3_N6H5XQ8GlS() { System.debug('Hello, World!');}}
