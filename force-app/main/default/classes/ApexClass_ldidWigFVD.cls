@@ -1,0 +1,1 @@
+public class ApexClass_ldidWigFVD { public void m1_Ar1tmmyZ6j() { System.debug('Hello, World!');} public void m2_smfxBlO9EI() { System.debug('Hello, World!');} public void m3_XaQtZsLXFX() { System.debug('Hello, World!');}}
