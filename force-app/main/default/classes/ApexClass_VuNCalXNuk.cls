@@ -1,0 +1,1 @@
+public class ApexClass_VuNCalXNuk { public void m1_6cqhqWx6Zn() { System.debug('Hello, World!');} public void m2_M1xMOXMNgq() { System.debug('Hello, World!');} public void m3_pVTMC3AFgD() { System.debug('Hello, World!');}}
