@@ -1,0 +1,1 @@
+public class ApexClass_wDbIsoRPgp { public void m1_olJ80X0Gae() { System.debug('Hello, World!');} public void m2_ePzQVQNHpw() { System.debug('Hello, World!');} public void m3_y6fnIKNCJF() { System.debug('Hello, World!');}}
