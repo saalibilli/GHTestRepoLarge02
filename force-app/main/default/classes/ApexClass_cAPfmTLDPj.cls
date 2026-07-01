@@ -1,0 +1,1 @@
+public class ApexClass_cAPfmTLDPj { public void m1_mduQrRvg7a() { System.debug('Hello, World!');} public void m2_WSmRZvGVNK() { System.debug('Hello, World!');} public void m3_W5OlATqq8V() { System.debug('Hello, World!');}}
