@@ -1,0 +1,1 @@
+public class ApexClass_morpiNfvdy { public void m1_lENSJ2WgQT() { System.debug('Hello, World!');} public void m2_drq2ckhWFZ() { System.debug('Hello, World!');} public void m3_JQh3Rr6bfM() { System.debug('Hello, World!');}}
