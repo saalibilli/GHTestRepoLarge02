@@ -1,0 +1,1 @@
+public class ApexClass_DAvCPVAFPe { public void m1_8RtMmQhf5O() { System.debug('Hello, World!');} public void m2_CZtm2bW4My() { System.debug('Hello, World!');} public void m3_YiFwnfjzkK() { System.debug('Hello, World!');}}
