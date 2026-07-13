@@ -1,0 +1,1 @@
+public class ApexClass_DBguNta16Z { public void m1_Dru4hhHGgt() { System.debug('Hello, World!');} public void m2_Q48jiBjfWJ() { System.debug('Hello, World!');} public void m3_et7Jzcyo2F() { System.debug('Hello, World!');}}
