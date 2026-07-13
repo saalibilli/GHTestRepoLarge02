@@ -1,0 +1,1 @@
+public class ApexClass_FegoHTmcsA { public void m1_ja1c3BF0MY() { System.debug('Hello, World!');} public void m2_vfGaqjx9Lq() { System.debug('Hello, World!');} public void m3_us3Eh1BPIs() { System.debug('Hello, World!');}}
