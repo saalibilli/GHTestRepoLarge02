@@ -1,0 +1,1 @@
+public class ApexClass_NPC20fcDM8 { public void m1_wfSCa3PVHZ() { System.debug('Hello, World!');} public void m2_5RdZAcmzfB() { System.debug('Hello, World!');} public void m3_lPEyU8bLH6() { System.debug('Hello, World!');}}
