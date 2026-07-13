@@ -1,0 +1,1 @@
+public class ApexClass_hfRipJww8I { public void m1_PyTOiLpx19() { System.debug('Hello, World!');} public void m2_OOGfdBA2ec() { System.debug('Hello, World!');} public void m3_XFt7G3JkXd() { System.debug('Hello, World!');}}
