@@ -1,0 +1,1 @@
+public class ApexClass_Kocployhpx { public void m1_MfM0WrHXfy() { System.debug('Hello, World!');} public void m2_iOCnHoC2do() { System.debug('Hello, World!');} public void m3_pm6HJkDtAS() { System.debug('Hello, World!');}}
