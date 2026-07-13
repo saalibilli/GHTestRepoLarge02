@@ -1,0 +1,1 @@
+public class ApexClass_3i22nTabax { public void m1_PQVqy039Zs() { System.debug('Hello, World!');} public void m2_HLcwcK9W6S() { System.debug('Hello, World!');} public void m3_NLv9Ingnrz() { System.debug('Hello, World!');}}
