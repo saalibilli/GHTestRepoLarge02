@@ -1,0 +1,1 @@
+public class ApexClass_SLqTLSBAdS { public void m1_VWUSfNi6mQ() { System.debug('Hello, World!');} public void m2_v7oXop4jzu() { System.debug('Hello, World!');} public void m3_yR0om6y3QP() { System.debug('Hello, World!');}}
