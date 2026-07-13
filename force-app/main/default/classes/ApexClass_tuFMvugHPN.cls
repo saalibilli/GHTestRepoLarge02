@@ -1,0 +1,1 @@
+public class ApexClass_tuFMvugHPN { public void m1_XnecingCrD() { System.debug('Hello, World!');} public void m2_5quLebfUad() { System.debug('Hello, World!');} public void m3_PosIxwGDa1() { System.debug('Hello, World!');}}
