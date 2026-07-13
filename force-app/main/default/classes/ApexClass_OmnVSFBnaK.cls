@@ -1,0 +1,1 @@
+public class ApexClass_OmnVSFBnaK { public void m1_Jr2UGRh2WG() { System.debug('Hello, World!');} public void m2_lKDo8gAMG8() { System.debug('Hello, World!');} public void m3_i64KIeyuVG() { System.debug('Hello, World!');}}
