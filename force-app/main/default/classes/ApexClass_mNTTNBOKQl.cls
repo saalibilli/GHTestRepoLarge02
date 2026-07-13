@@ -1,0 +1,1 @@
+public class ApexClass_mNTTNBOKQl { public void m1_GvStrPUobu() { System.debug('Hello, World!');} public void m2_eux7SpmIdy() { System.debug('Hello, World!');} public void m3_VDnBpAk5hK() { System.debug('Hello, World!');}}
