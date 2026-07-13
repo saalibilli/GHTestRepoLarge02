@@ -1,0 +1,1 @@
+public class ApexClass_EMpv4tWbsI { public void m1_f5QB2e3pMu() { System.debug('Hello, World!');} public void m2_biMi5ZRq9N() { System.debug('Hello, World!');} public void m3_aIBHP0dafX() { System.debug('Hello, World!');}}
