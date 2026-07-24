@@ -1,0 +1,1 @@
+public class ApexClass_otNKysema2 { public void m1_w4UrWBVJ1e() { System.debug('Hello, World!');} public void m2_w7B4p03yki() { System.debug('Hello, World!');} public void m3_aADy7CQx8W() { System.debug('Hello, World!');}}
