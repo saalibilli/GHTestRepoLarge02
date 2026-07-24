@@ -1,0 +1,1 @@
+public class ApexClass_Nsum4zBcje { public void m1_5dckpqy3zX() { System.debug('Hello, World!');} public void m2_3EGXCWKpRE() { System.debug('Hello, World!');} public void m3_0Xmu93H8Ca() { System.debug('Hello, World!');}}
