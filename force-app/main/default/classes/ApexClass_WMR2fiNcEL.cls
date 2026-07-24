@@ -1,0 +1,1 @@
+public class ApexClass_WMR2fiNcEL { public void m1_F3u6uS0XnM() { System.debug('Hello, World!');} public void m2_s6bg7IWVxD() { System.debug('Hello, World!');} public void m3_ULHI1sfFiu() { System.debug('Hello, World!');}}
