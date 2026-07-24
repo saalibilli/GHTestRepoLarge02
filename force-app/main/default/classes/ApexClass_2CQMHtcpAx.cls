@@ -1,0 +1,1 @@
+public class ApexClass_2CQMHtcpAx { public void m1_0gPgMbE0yx() { System.debug('Hello, World!');} public void m2_jDJYfuVr2P() { System.debug('Hello, World!');} public void m3_UObVG6FAhM() { System.debug('Hello, World!');}}

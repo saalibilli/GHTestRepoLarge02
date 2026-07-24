@@ -1,0 +1,1 @@
+public class ApexClass_v2XY8M6Lq2 { public void m1_FPutRkcwAf() { System.debug('Hello, World!');} public void m2_AEdiSfiNyr() { System.debug('Hello, World!');} public void m3_NPhtoScniX() { System.debug('Hello, World!');}}
