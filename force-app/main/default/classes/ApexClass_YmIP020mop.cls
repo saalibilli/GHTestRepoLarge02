@@ -1,0 +1,1 @@
+public class ApexClass_YmIP020mop { public void m1_LifNFO3fdB() { System.debug('Hello, World!');} public void m2_5jofmiO9HU() { System.debug('Hello, World!');} public void m3_TZhPiKuGDM() { System.debug('Hello, World!');}}
