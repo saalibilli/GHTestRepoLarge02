@@ -1,0 +1,1 @@
+public class ApexClass_XKOVPArtTu { public void m1_tGLN6ofVvA() { System.debug('Hello, World!');} public void m2_YwSkNXzAp4() { System.debug('Hello, World!');} public void m3_JWbDBTpEWq() { System.debug('Hello, World!');}}
