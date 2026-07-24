@@ -1,0 +1,1 @@
+public class ApexClass_NcFsgeRicu { public void m1_cjCGlspaaP() { System.debug('Hello, World!');} public void m2_BjKRxLPqGw() { System.debug('Hello, World!');} public void m3_QLVc1UwHLb() { System.debug('Hello, World!');}}
