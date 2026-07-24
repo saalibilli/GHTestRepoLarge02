@@ -1,0 +1,1 @@
+public class ApexClass_eloqRGnamy { public void m1_wFohTsqRMz() { System.debug('Hello, World!');} public void m2_hiphC8ZcX2() { System.debug('Hello, World!');} public void m3_9EJjGguL4e() { System.debug('Hello, World!');}}
