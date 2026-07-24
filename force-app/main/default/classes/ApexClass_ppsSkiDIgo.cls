@@ -1,0 +1,1 @@
+public class ApexClass_ppsSkiDIgo { public void m1_hBLPCpJ3HH() { System.debug('Hello, World!');} public void m2_bAJT732I5V() { System.debug('Hello, World!');} public void m3_h5X5w9Vp4E() { System.debug('Hello, World!');}}
