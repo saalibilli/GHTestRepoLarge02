@@ -1,0 +1,1 @@
+public class ApexClass_iPn7OtpLm6 { public void m1_HbTcpWoyby() { System.debug('Hello, World!');} public void m2_yMmU6JgByp() { System.debug('Hello, World!');} public void m3_fsg4iFHbkC() { System.debug('Hello, World!');}}
