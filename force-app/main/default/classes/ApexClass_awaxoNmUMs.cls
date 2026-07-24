@@ -1,0 +1,1 @@
+public class ApexClass_awaxoNmUMs { public void m1_MmEVDH2rDK() { System.debug('Hello, World!');} public void m2_ABnUtjWQRt() { System.debug('Hello, World!');} public void m3_XdywfV54Ss() { System.debug('Hello, World!');}}
