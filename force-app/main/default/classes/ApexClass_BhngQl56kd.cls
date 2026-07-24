@@ -1,0 +1,1 @@
+public class ApexClass_BhngQl56kd { public void m1_YoMpyAlxQL() { System.debug('Hello, World!');} public void m2_xozVmwrd7z() { System.debug('Hello, World!');} public void m3_uwq3UZuxv8() { System.debug('Hello, World!');}}
