@@ -1,0 +1,1 @@
+public class ApexClass_fornhrtomp { public void m1_1cVfkKpxkA() { System.debug('Hello, World!');} public void m2_bi43EWDOZY() { System.debug('Hello, World!');} public void m3_iApilmAyB2() { System.debug('Hello, World!');}}
