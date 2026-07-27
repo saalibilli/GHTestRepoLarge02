@@ -1,0 +1,1 @@
+public class ApexClass_vgmNCaFues { public void m1_SXktN2RatY() { System.debug('Hello, World!');} public void m2_h7LKgdQtM5() { System.debug('Hello, World!');} public void m3_kT95SBAJKi() { System.debug('Hello, World!');}}
