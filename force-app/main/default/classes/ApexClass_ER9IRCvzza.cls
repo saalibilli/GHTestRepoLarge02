@@ -1,0 +1,1 @@
+public class ApexClass_ER9IRCvzza { public void m1_RLMrnifO16() { System.debug('Hello, World!');} public void m2_iuriGrfzbC() { System.debug('Hello, World!');} public void m3_8SCUmuLoUe() { System.debug('Hello, World!');}}
