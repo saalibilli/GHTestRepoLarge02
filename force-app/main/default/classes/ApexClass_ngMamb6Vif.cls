@@ -1,0 +1,1 @@
+public class ApexClass_ngMamb6Vif { public void m1_b13poisHN8() { System.debug('Hello, World!');} public void m2_J91GAtdN2X() { System.debug('Hello, World!');} public void m3_5y3OgiX2OW() { System.debug('Hello, World!');}}
