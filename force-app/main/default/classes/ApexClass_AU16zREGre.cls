@@ -1,0 +1,1 @@
+public class ApexClass_AU16zREGre { public void m1_kgq1mYGxrR() { System.debug('Hello, World!');} public void m2_s0xR8A7nfe() { System.debug('Hello, World!');} public void m3_tIJfechBXB() { System.debug('Hello, World!');}}
