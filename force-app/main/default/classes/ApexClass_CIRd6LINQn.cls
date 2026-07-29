@@ -1,0 +1,1 @@
+public class ApexClass_CIRd6LINQn { public void m1_wcWNbDjcbV() { System.debug('Hello, World!');} public void m2_JBsIt5szI3() { System.debug('Hello, World!');} public void m3_sc2HYczUxB() { System.debug('Hello, World!');}}
