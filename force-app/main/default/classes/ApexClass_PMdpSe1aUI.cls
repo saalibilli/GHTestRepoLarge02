@@ -1,0 +1,1 @@
+public class ApexClass_PMdpSe1aUI { public void m1_ZKTMpJXS7B() { System.debug('Hello, World!');} public void m2_2pZpoZZ3Vr() { System.debug('Hello, World!');} public void m3_DVoSKoxMyB() { System.debug('Hello, World!');}}
