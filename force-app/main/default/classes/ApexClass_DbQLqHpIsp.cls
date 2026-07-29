@@ -1,0 +1,1 @@
+public class ApexClass_DbQLqHpIsp { public void m1_is8QkP5k2Z() { System.debug('Hello, World!');} public void m2_kQXiOzmHnw() { System.debug('Hello, World!');} public void m3_hDLpUIUI7y() { System.debug('Hello, World!');}}
