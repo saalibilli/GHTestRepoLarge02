@@ -1,0 +1,1 @@
+public class ApexClass_QNBW3P96kJ { public void m1_BJWT30rMpi() { System.debug('Hello, World!');} public void m2_UZvwunucQF() { System.debug('Hello, World!');} public void m3_bicf5yfAX0() { System.debug('Hello, World!');}}
