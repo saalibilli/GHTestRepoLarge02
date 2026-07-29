@@ -1,0 +1,1 @@
+public class ApexClass_HPWHDlRtDd { public void m1_RzDWX7V9WM() { System.debug('Hello, World!');} public void m2_2X4VAkxX4K() { System.debug('Hello, World!');} public void m3_lVJmUxUeHr() { System.debug('Hello, World!');}}
